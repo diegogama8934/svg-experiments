@@ -4,6 +4,7 @@ import { Circles } from "./components/Circles";
 import { Ellipse } from "./components/Ellipse";
 import { Line } from "./components/Line";
 import { Polygon } from "./components/Polygon";
+import { Polyline } from "./components/Polyline";
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
       <Ellipse />
       <Line />
       <Polygon />
+      <Polyline />
     </>
   )
 }
