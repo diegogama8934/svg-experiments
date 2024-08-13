@@ -1,5 +1,6 @@
 // import './App.css'
-import { Rectangles } from "./components/Rectangles"
+import { Rectangles } from "./components/Rectangles";
+import { Circles } from "./components/Circles";
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
     <>
       <h1>SVG Animations experiment</h1>
       <Rectangles />
+      <Circles />
     </>
   )
 }

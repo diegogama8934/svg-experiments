@@ -42,5 +42,5 @@ export function Rectangles() {
         </div>
       </div>
     </div> 
-  )
+  );
 }
