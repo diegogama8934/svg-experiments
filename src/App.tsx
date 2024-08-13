@@ -2,6 +2,7 @@
 import { Rectangles } from "./components/Rectangles";
 import { Circles } from "./components/Circles";
 import { Ellipse } from "./components/Ellipse";
+import { Line } from "./components/Line";
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
       <Rectangles />
       <Circles />
       <Ellipse />
+      <Line />
     </>
   )
 }
