@@ -24,7 +24,7 @@ export function Ellipse(){
                 strokeWidth: 3
               }}
             />
-          </svg>          
+          </svg>
         </div>
         
         <div className="experiment-container">
